@@ -2,7 +2,7 @@
 * We are leaving Anixe
 * [University Lecture](https://zapisy.ii.uni.wroc.pl/courses/kurs-jezyka-rust-201920-zimowy)
 
-# Papers
+# News
 * [Unsafe code guidelines](https://rust-lang.github.io/unsafe-code-guidelines/)
 * [Typestate pattern](http://cliffle.com/blog/rust-typestate/)
 * [RustTLS vs OpenSLL performance](https://jbp.io/2019/07/01/rustls-vs-openssl-performance.html)
