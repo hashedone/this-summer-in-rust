@@ -20,3 +20,4 @@
 * [Safe](https://github.com/Centril/rust-safe) - crate for better documenting `unafe` blocks
 * [Nom](http://unhandledexpression.com/general/2019/06/17/nom-5-is-here.html) - Parsers combinators library
 * [Async-std](https://crates.io/crates/async-std) - Standarized way for async programming
+* [Moxie](https://github.com/anp/moxie) - GUI framework
