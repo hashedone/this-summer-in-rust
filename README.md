@@ -5,7 +5,7 @@
 # News
 * [Unsafe code guidelines](https://rust-lang.github.io/unsafe-code-guidelines/)
 * [Typestate pattern](http://cliffle.com/blog/rust-typestate/)
-* [RustTLS vs OpenSLL performance](https://jbp.io/2019/07/01/rustls-vs-openssl-performance.html)
+* [RustTLS vs OpenSSL performance](https://jbp.io/2019/07/01/rustls-vs-openssl-performance.html)
 * [Higher Kinded Types in Rust](https://gist.github.com/edmundsmith/855fcf0cb35dd467c29a9350481f0ecf)
 * [Rust become mainstream in 2020?](https://medium.com/better-programming/2020-programming-trend-predictions-a5d6b70bec26)
 * [Microsoft to explore Rust](https://msrc-blog.microsoft.com/2019/07/16/a-proactive-approach-to-more-secure-code/)
